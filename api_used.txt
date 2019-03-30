@@ -1,0 +1,5 @@
+OMDb API: http://www.omdbapi.com/
+
+Spotify Documentation: https://developer.spotify.com/
+
+Bandsintown Documentation: https://app.swaggerhub.com/apis-docs/Bandsintown/PublicAPI/3.0.0
